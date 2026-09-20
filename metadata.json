@@ -1,0 +1,6 @@
+{
+  "name": "Khar West Civic Resolution Portal",
+  "description": "Aamchi Khar West - Civic Spot-Fix & Escalation Portal for BMC H/West Ward featuring issue upvoting, official ward directory, and automated complaint email generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
